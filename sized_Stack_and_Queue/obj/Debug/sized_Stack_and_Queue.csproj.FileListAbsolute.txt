@@ -1,0 +1,6 @@
+D:\GitHub\VAdm\sized_Stack_and_Queue\sized_Stack_and_Queue\bin\Debug\sized_Stack_and_Queue.dll
+D:\GitHub\VAdm\sized_Stack_and_Queue\sized_Stack_and_Queue\bin\Debug\sized_Stack_and_Queue.pdb
+D:\GitHub\VAdm\sized_Stack_and_Queue\sized_Stack_and_Queue\obj\Debug\sized_Stack_and_Queue.csprojAssemblyReference.cache
+D:\GitHub\VAdm\sized_Stack_and_Queue\sized_Stack_and_Queue\obj\Debug\sized_Stack_and_Queue.csproj.CoreCompileInputs.cache
+D:\GitHub\VAdm\sized_Stack_and_Queue\sized_Stack_and_Queue\obj\Debug\sized_Stack_and_Queue.dll
+D:\GitHub\VAdm\sized_Stack_and_Queue\sized_Stack_and_Queue\obj\Debug\sized_Stack_and_Queue.pdb
